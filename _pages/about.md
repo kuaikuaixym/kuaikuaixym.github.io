@@ -45,6 +45,21 @@ Tao Xie\*, Xi Chen\*, Zhen Xu, **Yiman Xie**, Yudong Jin, Yujun Shen, Sida Peng,
 </div>
 
 
+<div class='paper-box'><img src='images/mmsi-bench1.jpg' alt="sym" width="100%"></div></div> 
+<!-- <div class='paper-box-image'><div><div class="badge">CVPR 2025</div> -->
+<div class='paper-box-text' markdown="1">
+
+[MMSI-Bench: A Benchmark for Multi-Image Spatial Intelligence](https://arxiv.org/abs/2412.15215)
+
+Sihan Yang\*, Runsen Xu\*†, **Yiman Xie**, Sizhe Yang, Mo Li, Jingli Lin, Chenming Zhu, Xiaochen Chen, Haodong Duan, Xiangyu Yue, Dahua Lin, Tai Wang#, Jiangmiao Pang#
+
+arXiv Preprint, 2025
+
+[**Project**](https://runsenxu.com/projects/MMSI_Bench/)  [**arXiv**](https://arxiv.org/abs/2505.23764) [**Code**](https://github.com/InternRobotics/MMSI-Bench) [**Dataset**](https://huggingface.co/datasets/RunsenXu/MMSI-Bench)
+<!-- <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
+</div>
+</div>
+
 
 # 🎖 Selected Awards
 - *2024.12* National Scholarship 
