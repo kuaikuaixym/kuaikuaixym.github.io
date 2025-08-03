@@ -65,9 +65,9 @@ arXiv Preprint, 2025
 
 
 # 🎖 Selected Awards
+- *2025.06* SenseTime Scholarship (selects 30 undergraduates in the field of AI from all over China annually)
 - *2024.12* National Scholarship 
 - *2023.12* National Scholarship 
-- *2025.06* SenseTime Scholarship (selects 30 undergraduates in the field of AI from all over China annually)
 
 <!-- # 📖 Educations
 - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
