@@ -45,8 +45,11 @@ Tao Xie\*, Xi Chen\*, Zhen Xu, **Yiman Xie**, Yudong Jin, Yujun Shen, Sida Peng,
 </div>
 
 
-<div class='paper-box'><img src='images/mmsi-bench1.jpg' alt="sym" width="100%"></div></div> 
+<!-- <div class='paper-box'><img src='images/mmsi-bench1.jpg' alt="sym" width="100%"></div></div>  -->
 <!-- <div class='paper-box-image'><div><div class="badge">CVPR 2025</div> -->
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/mmsi-bench1.jpg' alt="sym" width="100%"></div></div>
+
 <div class='paper-box-text' markdown="1">
 
 [MMSI-Bench: A Benchmark for Multi-Image Spatial Intelligence](https://arxiv.org/abs/2412.15215)
