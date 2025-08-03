@@ -18,6 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 Hi, I'm Yiman Xie 谢艺漫. I'm currently an undergraduate student at Turing Class, Zhejiang University, major in Computer Science and Technology.
+
 I am a robotics researcher intern of the [Shanghai AI Lab](https://www.shlab.org.cn/), supervised by [Prof. Jiangmiao Pang](https://oceanpang.github.io/) and [Prof. Jia Zeng](https://increase24.github.io/).
 
 I am also a member of [State Key Laboratory of CAD&CG](https://www.zju.edu.cn/english/2018/0522/c19974a812968/page.htm), supervised by [Prof. Guofeng Zhang](http://www.cad.zju.edu.cn/home/gfzhang/), [Prof. Xiaowei Zhou](https://www.xzhou.me/) and [Prof. Sida Peng](https://pengsida.net/).
@@ -38,7 +39,8 @@ My research interest includes Robot Manipulation, Computer Vision, and Spatial I
 
 Tao Xie\*, Xi Chen\*, Zhen Xu, **Yiman Xie**, Yudong Jin, Yujun Shen, Sida Peng, Hujun Bao, Xiaowei Zhou
 
-[**Project**](https://zju3dv.github.io/envgs/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Project**](https://zju3dv.github.io/envgs/)  [**arXiv**](https://arxiv.org/abs/2412.15215) [**Code**](https://github.com/zju3dv/EnvGS) [**Dataset**](https://drive.google.com/drive/folders/1ogZF8171GatQokbECf1yCabBwm3IvDSm)
+<!-- <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
 </div>
 </div>
 
