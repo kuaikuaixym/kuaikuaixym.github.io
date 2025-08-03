@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, I'm Yiman Xie 谢艺漫. I'm currently an undergraduate student at Turing Class, Zhejiang University, major in Computer Science and Technology.
+Hi, I'm Yiman Xie 谢艺漫. I'm currently an undergraduate student at Turing Class, Zhejiang University.
 
 I am a robotics researcher intern of the [Shanghai AI Lab](https://www.shlab.org.cn/), supervised by [Prof. Jiangmiao Pang](https://oceanpang.github.io/) and [Prof. Jia Zeng](https://increase24.github.io/).
 
