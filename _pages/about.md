@@ -30,7 +30,7 @@ My research interest includes Robot Manipulation, Computer Vision, and Spatial I
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
-# 📝 Publications 
+# 📝 Selected Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/envgs.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -44,11 +44,12 @@ Tao Xie\*, Xi Chen\*, Zhen Xu, **Yiman Xie**, Yudong Jin, Yujun Shen, Sida Peng,
 </div>
 </div>
 
-<!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
+
+# 🎖 Selected Awards
+- *2024.12* National Scholarship 
+- *2023.12* National Scholarship 
+- *2025.06* SenseTime Scholarship (selects 30 undergraduates in the field of AI from all over China annually)
 
 <!-- # 📖 Educations
 - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
