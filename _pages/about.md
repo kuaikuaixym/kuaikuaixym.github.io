@@ -24,11 +24,16 @@ I am a robotics researcher intern of the [Shanghai AI Lab](https://www.shlab.org
 I am also a member of [State Key Laboratory of CAD\&CG](https://www.zju.edu.cn/english/2018/0522/c19974a812968/page.htm), supervised by [Prof. Guofeng Zhang](http://www.cad.zju.edu.cn/home/gfzhang/), [Prof. Xiaowei Zhou](https://www.xzhou.me/) and [Prof. Sida Peng](https://pengsida.net/).
 
 
-My research interest includes Robotics, Spatial Intelligence and Computer Vision.
+<!-- My research interest includes Robotics, Spatial Intelligence and Computer Vision. -->
 
 <!-- # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
+
+# 📖 Research Interests
+
+Robotics, Spatial Intelligence and Computer Vision
+
 
 # 📝 Selected Publications 
 
