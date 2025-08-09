@@ -21,7 +21,7 @@ Hi, I'm Yiman Xie 谢艺漫. I'm currently an undergraduate at Turing Class, Zhe
 
 I am a robotics researcher intern of the [Shanghai AI Lab](https://www.shlab.org.cn/), supervised by [Prof. Jiangmiao Pang](https://oceanpang.github.io/) and [Prof. Jia Zeng](https://increase24.github.io/).
 
-I am also a member of [State Key Laboratory of CAD&CG](https://www.zju.edu.cn/english/2018/0522/c19974a812968/page.htm), supervised by [Prof. Guofeng Zhang](http://www.cad.zju.edu.cn/home/gfzhang/), [Prof. Xiaowei Zhou](https://www.xzhou.me/) and [Prof. Sida Peng](https://pengsida.net/).
+I am also a member of [State Key Laboratory of CAD\&CG](https://www.zju.edu.cn/english/2018/0522/c19974a812968/page.htm), supervised by [Prof. Guofeng Zhang](http://www.cad.zju.edu.cn/home/gfzhang/), [Prof. Xiaowei Zhou](https://www.xzhou.me/) and [Prof. Sida Peng](https://pengsida.net/).
 
 
 My research interest includes Robotics, Spatial Intelligence and Computer Vision.
@@ -65,6 +65,7 @@ arXiv Preprint, 2025
 
 
 # 🎖 Selected Awards
+
 - *2025.06* SenseTime Scholarship (selects 30 undergraduates in the field of AI from all over China annually)
 - *2024.12* National Scholarship 
 - *2023.12* National Scholarship 

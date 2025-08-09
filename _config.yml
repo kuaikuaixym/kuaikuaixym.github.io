@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Yiman Xie 谢艺漫"
-  avatar           : "images/Y.png"
+  avatar           : "images/default.webp"
   bio              : "Undergraduate @ZheJiang University Turing Class"
   location         : "Zhejiang, China"
   employer         : "Zhejiang University"
