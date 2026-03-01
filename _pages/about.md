@@ -73,7 +73,10 @@ Sizhe Yang, **Yiman Xie**, Zhixuan Liang, Yang Tian, Jia Zeng, Dahua Lin, Jiangm
 
 
 
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/mmsi-bench1.jpg' alt="sym" width="100%"></div></div>
+
 
 <div class='paper-box-text' markdown="1">
 
