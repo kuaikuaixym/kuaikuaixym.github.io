@@ -37,6 +37,58 @@ Robotics, Spatial Intelligence and Computer Vision
 
 # 📝 Selected Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/interndata-a1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[InternData-A1: Pioneering High-Fidelity Synthetic Data for Pre-training Generalist Policy](https://arxiv.org/pdf/2511.16651)
+
+Yang Tian\*, Yuyin Yang\*, **Yiman Xie\***, Zetao Cai\*, Xu Shi\*, Ning Gao,
+Hangxu Liu, Xuekun Jiang, Zherui Qiu, Feng Yuan, Yaping Li, Ping Wang,
+Junhao Cai, Jia Zeng, Hao Dong, Jiangmiao Pang
+
+[**Project**](https://internrobotics.github.io/interndata-a1.github.io/)  [**arXiv**](https://arxiv.org/pdf/2511.16651)  [**Dataset**](https://huggingface.co/datasets/InternRobotics/InternData-A1)
+
+<!-- [**Code**](https://github.com/zju3dv/EnvGS) -->
+
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICRA 2026</div><img src='images/envgs.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+
+[UltraDexGrasp: Learning Universal Dexterous Grasping for Bimanual Robots with Synthetic Data](https://kuaikuaixym.github.io/)
+
+Sizhe Yang, Yiman Xie, Zhixuan Liang, Yang Tian, Jia Zeng, Dahua Lin, Jiangmiao Pang
+
+
+<!-- [**Project**](https://zju3dv.github.io/envgs/)  [**arXiv**](https://arxiv.org/abs/2412.15215) [**Code**](https://github.com/zju3dv/EnvGS)  -->
+<!-- [**Dataset**](https://drive.google.com/drive/folders/1ogZF8171GatQokbECf1yCabBwm3IvDSm) -->
+
+<!-- <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
+</div>
+</div>
+
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/mmsi-bench1.jpg' alt="sym" width="100%"></div></div>
+
+<div class='paper-box-text' markdown="1">
+
+[MMSI-Bench: A Benchmark for Multi-Image Spatial Intelligence](https://arxiv.org/abs/2412.15215)
+
+Sihan Yang\*, Runsen Xu\*†, **Yiman Xie**, Sizhe Yang, Mo Li, Jingli Lin, Chenming Zhu, Xiaochen Chen, Haodong Duan, Xiangyu Yue, Dahua Lin, Tai Wang#, Jiangmiao Pang#
+
+ICLR, 2026
+
+[**Project**](https://runsenxu.com/projects/MMSI_Bench/)  [**arXiv**](https://arxiv.org/abs/2505.23764) [**Code**](https://github.com/InternRobotics/MMSI-Bench) [**Dataset**](https://huggingface.co/datasets/RunsenXu/MMSI-Bench)
+<!-- <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
+</div>
+</div>
+
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/envgs.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -53,20 +105,6 @@ Tao Xie\*, Xi Chen\*, Zhen Xu, **Yiman Xie**, Yudong Jin, Yujun Shen, Sida Peng,
 <!-- <div class='paper-box'><img src='images/mmsi-bench1.jpg' alt="sym" width="100%"></div></div>  -->
 <!-- <div class='paper-box-image'><div><div class="badge">CVPR 2025</div> -->
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/mmsi-bench1.jpg' alt="sym" width="100%"></div></div>
-
-<div class='paper-box-text' markdown="1">
-
-[MMSI-Bench: A Benchmark for Multi-Image Spatial Intelligence](https://arxiv.org/abs/2412.15215)
-
-Sihan Yang\*, Runsen Xu\*†, **Yiman Xie**, Sizhe Yang, Mo Li, Jingli Lin, Chenming Zhu, Xiaochen Chen, Haodong Duan, Xiangyu Yue, Dahua Lin, Tai Wang#, Jiangmiao Pang#
-
-arXiv Preprint, 2025
-
-[**Project**](https://runsenxu.com/projects/MMSI_Bench/)  [**arXiv**](https://arxiv.org/abs/2505.23764) [**Code**](https://github.com/InternRobotics/MMSI-Bench) [**Dataset**](https://huggingface.co/datasets/RunsenXu/MMSI-Bench)
-<!-- <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
-</div>
-</div>
 
 
 # 🎖 Selected Awards
