@@ -72,7 +72,7 @@ Sizhe Yang, Yiman Xie, Zhixuan Liang, Yang Tian, Jia Zeng, Dahua Lin, Jiangmiao 
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/mmsi-bench1.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/mmsi-bench1.jpg' alt="sym" width="100%"></div></div>
 
 <div class='paper-box-text' markdown="1">
 
@@ -80,7 +80,6 @@ Sizhe Yang, Yiman Xie, Zhixuan Liang, Yang Tian, Jia Zeng, Dahua Lin, Jiangmiao 
 
 Sihan Yang\*, Runsen Xu\*†, **Yiman Xie**, Sizhe Yang, Mo Li, Jingli Lin, Chenming Zhu, Xiaochen Chen, Haodong Duan, Xiangyu Yue, Dahua Lin, Tai Wang#, Jiangmiao Pang#
 
-ICLR, 2026
 
 [**Project**](https://runsenxu.com/projects/MMSI_Bench/)  [**arXiv**](https://arxiv.org/abs/2505.23764) [**Code**](https://github.com/InternRobotics/MMSI-Bench) [**Dataset**](https://huggingface.co/datasets/RunsenXu/MMSI-Bench)
 <!-- <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
