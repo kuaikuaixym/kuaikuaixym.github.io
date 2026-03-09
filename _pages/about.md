@@ -58,7 +58,7 @@ Junhao Cai, Jia Zeng, Hao Dong, Jiangmiao Pang
 <div class='paper-box-text' markdown="1">
 
 
-[UltraDexGrasp: Learning Universal Dexterous Grasping for Bimanual Robots with Synthetic Data](https://kuaikuaixym.github.io/)
+[UltraDexGrasp: Learning Universal Dexterous Grasping for Bimanual Robots with Synthetic Data](https://arxiv.org/abs/2603.05312)
 
 Sizhe Yang, **Yiman Xie**, Zhixuan Liang, Yang Tian, Jia Zeng, Dahua Lin, Jiangmiao Pang
 
